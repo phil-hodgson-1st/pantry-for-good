@@ -1,7 +1,7 @@
 {
   "name": "pantry-for-good",
   "description": "A customizable food bank webapp",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "author": "Peter Deal and Marco Früh",
   "license": "MIT",
   "repository": {
